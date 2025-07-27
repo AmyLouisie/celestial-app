@@ -19,7 +19,7 @@
 ## 👩‍💻 Built With
 
 - **React.js** (Vite)
-- **Typescript
+- ** Typescript **
 
 ---
 
